@@ -1,0 +1,5 @@
+streamlit
+pillow
+time
+base64
+streamlit_drawable_canvas

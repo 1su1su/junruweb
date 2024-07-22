@@ -1,0 +1,1 @@
+st.write("<span style='font-size:20px; color:blue'>这是20px大小的蓝色的字</span>", unsafe_allow_html=True)
